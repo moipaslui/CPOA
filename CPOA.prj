@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner AppLocale="UTF16" ID="{556D5F89-C7FB-41B8-BFBE-47D14672303B}" Label="" LastModificationDate="1544631427" Name="CPOA" Objects="20" Symbols="0" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" signature="PRJ_MODEL_XML" version="15.3.0.3248"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
+
+<o:RootObject Id="o1">
+<c:Children>
+<o:Project Id="o2">
+<a:ObjectID>556D5F89-C7FB-41B8-BFBE-47D14672303B</a:ObjectID>
+<a:Name>CPOA</a:Name>
+<a:Code>CPOA</a:Code>
+<a:CreationDate>1544629745</a:CreationDate>
+<a:Creator>p1700937</a:Creator>
+<a:ModificationDate>1544631427</a:ModificationDate>
+<a:Modifier>p1700937</a:Modifier>
+<a:PackageOptionsText>[FolderOptions]
+
+[FolderOptions\Project Objects]
+GenerationCheckModel=Yes
+GenerationPath=
+GenerationOptions=
+GenerationTasks=
+GenerationTargets=
+GenerationSelections=
+RbldDeplinkFile=Yes
+RbldDeplinkGene=Yes
+RbldDeplinkRefr=Yes
+RbldDeplinkMapp=Yes
+RbldDeplinkOpnm=Yes
+
+[FolderOptions\CheckModel]
+
+[FolderOptions\CheckModel\Modèle]
+
+[FolderOptions\CheckModel\Modèle\UniqueEmplacement]
+CheckSeverity=No
+FixRequested=No
+CheckRequested=Yes
+
+[FolderOptions\CheckModel\Modèle\CheckExtDocUnderNamedPath]
+CheckSeverity=Yes
+FixRequested=No
+CheckRequested=Yes
+
+[FolderOptions\CheckModel\Modèle\CheckMDocModelReferences]
+CheckSeverity=Yes
+FixRequested=No
+CheckRequested=Yes
+
+[FolderOptions\CheckModel\Fichier]
+
+[FolderOptions\CheckModel\Fichier\UniqueEmplacement]
+CheckSeverity=No
+FixRequested=No
+CheckRequested=Yes
+
+[FolderOptions\CheckModel\Fichier\CheckExtDocUnderNamedPath]
+CheckSeverity=Yes
+FixRequested=No
+CheckRequested=Yes
+
+[FolderOptions\CheckModel\Fichier\UniqueNom]
+CheckSeverity=No
+FixRequested=No
+CheckRequested=Yes
+
+[FolderOptions\CheckModel\Fichier\CheckPathExists]
+CheckSeverity=Yes
+FixRequested=No
+CheckRequested=Yes
+
+[FolderOptions\CheckModel\Matrice de cadre d&#39;architecture.Cellule]
+
+[FolderOptions\CheckModel\Matrice de cadre d&#39;architecture.Cellule\UniqueNom]
+CheckSeverity=No
+FixRequested=No
+CheckRequested=Yes
+
+[FolderOptions\CheckModel\Matrice de cadre d&#39;architecture.Cellule\UniqueCode]
+CheckSeverity=No
+FixRequested=No
+CheckRequested=Yes
+
+[FolderOptions\CheckModel\Matrice de cadre d&#39;architecture.Cellule\CheckCellMandatoryActions]
+CheckSeverity=No
+FixRequested=No
+CheckRequested=Yes
+
+[FolderOptions\CheckModel\Matrice de cadre d&#39;architecture.Cellule\CheckCellDocAndActionsConsistency]
+CheckSeverity=No
+FixRequested=No
+CheckRequested=Yes
+
+[FolderOptions\CheckModel\Noeud de cadre d&#39;architecture]
+
+[FolderOptions\CheckModel\Noeud de cadre d&#39;architecture\UniqueNom]
+CheckSeverity=No
+FixRequested=No
+CheckRequested=Yes
+
+[FolderOptions\CheckModel\Noeud de cadre d&#39;architecture\UniqueCode]
+CheckSeverity=No
+FixRequested=No
+CheckRequested=Yes
+
+[FolderOptions\CheckModel\Noeud de cadre d&#39;architecture\CheckCellMandatoryActions]
+CheckSeverity=No
+FixRequested=No
+CheckRequested=Yes
+
+[FolderOptions\CheckModel\Noeud de cadre d&#39;architecture\CheckCellDocAndActionsConsistency]
+CheckSeverity=No
+FixRequested=No
+CheckRequested=Yes
+
+[FolderOptions\CheckModel\Réplication]
+
+[FolderOptions\CheckModel\Réplication\PartialReplication]
+CheckSeverity=Yes
+FixRequested=No
+CheckRequested=Yes
+
+[FolderOptions\CheckModel\Règle de gestion]
+
+[FolderOptions\CheckModel\Règle de gestion\UniqueNom]
+CheckSeverity=No
+FixRequested=No
+CheckRequested=Yes
+
+[FolderOptions\CheckModel\Règle de gestion\UniqueCode]
+CheckSeverity=No
+FixRequested=No
+CheckRequested=Yes
+
+[FolderOptions\CheckModel\Règle de gestion\EmptyColl - OBJCOL]
+CheckSeverity=Yes
+FixRequested=No
+CheckRequested=Yes
+
+[FolderOptions\CheckModel\Objet étendu]
+
+[FolderOptions\CheckModel\Objet étendu\UniqueNom]
+CheckSeverity=No
+FixRequested=No
+CheckRequested=Yes
+
+[FolderOptions\CheckModel\Objet étendu\UniqueCode]
+CheckSeverity=No
+FixRequested=No
+CheckRequested=Yes
+
+[FolderOptions\CheckModel\Lien étendu]
+
+[FolderOptions\CheckModel\Lien étendu\UniqueNom]
+CheckSeverity=No
+FixRequested=No
+CheckRequested=Yes
+
+[FolderOptions\CheckModel\Lien étendu\UniqueCode]
+CheckSeverity=No
+FixRequested=No
+CheckRequested=Yes
+
+[FolderOptions\CheckModel\Format de données]
+
+[FolderOptions\CheckModel\Format de données\UniqueNom]
+CheckSeverity=No
+FixRequested=No
+CheckRequested=Yes
+
+[FolderOptions\CheckModel\Format de données\UniqueCode]
+CheckSeverity=No
+FixRequested=No
+CheckRequested=Yes
+
+[FolderOptions\CheckModel\Format de données\CheckDataFormatNullExpression]
+CheckSeverity=No
+FixRequested=No
+CheckRequested=Yes</a:PackageOptionsText>
+<a:ModelOptionsText>[ModelOptions]
+
+[ModelOptions\Prj options]
+CaseSensitive=No
+DisplayName=Yes
+EnableTrans=No
+EnableRequirements=No
+
+[ModelOptions\Prj options\NamingOptionsTemplates]
+
+[ModelOptions\Prj options\ClssNamingOptions]
+
+[ModelOptions\Prj options\ClssNamingOptions\PRJPCKG]
+
+[ModelOptions\Prj options\ClssNamingOptions\PRJPCKG\Name]
+Template=
+MaxLen=254
+Case=M
+ValidChar=
+InvldChar=
+AllValid=Yes
+NoAccent=No
+DefaultChar=_
+Script=.convert_name(%Name%,&quot;_&quot;)
+ConvTable=
+ConvTablePath=%_HOME%\Fichiers de ressources\Tables de conversion
+
+[ModelOptions\Prj options\ClssNamingOptions\PRJPCKG\Code]
+Template=
+MaxLen=254
+Case=M
+ValidChar=
+InvldChar=
+AllValid=Yes
+NoAccent=No
+DefaultChar=_
+Script=.convert_code(%Code%,&quot; &quot;)
+ConvTable=
+ConvTablePath=%_HOME%\Fichiers de ressources\Tables de conversion
+
+[ModelOptions\Prj options\ClssNamingOptions\FILO]
+
+[ModelOptions\Prj options\ClssNamingOptions\FILO\Name]
+Template=
+MaxLen=254
+Case=M
+ValidChar=
+InvldChar=
+AllValid=Yes
+NoAccent=No
+DefaultChar=_
+Script=.convert_name(%Name%,&quot;_&quot;)
+ConvTable=
+ConvTablePath=%_HOME%\Fichiers de ressources\Tables de conversion
+
+[ModelOptions\Prj options\ClssNamingOptions\FILO\Code]
+Template=
+MaxLen=254
+Case=M
+ValidChar=
+InvldChar=
+AllValid=Yes
+NoAccent=No
+DefaultChar=_
+Script=.convert_code(%Code%,&quot; &quot;)
+ConvTable=
+ConvTablePath=%_HOME%\Fichiers de ressources\Tables de conversion
+
+[ModelOptions\Prj options\ClssNamingOptions\FRMEOBJ]
+
+[ModelOptions\Prj options\ClssNamingOptions\FRMEOBJ\Name]
+Template=
+MaxLen=254
+Case=M
+ValidChar=
+InvldChar=
+AllValid=Yes
+NoAccent=No
+DefaultChar=_
+Script=.convert_name(%Name%,&quot;_&quot;)
+ConvTable=
+ConvTablePath=%_HOME%\Fichiers de ressources\Tables de conversion
+
+[ModelOptions\Prj options\ClssNamingOptions\FRMEOBJ\Code]
+Template=
+MaxLen=254
+Case=M
+ValidChar=
+InvldChar=
+AllValid=Yes
+NoAccent=No
+DefaultChar=_
+Script=.convert_code(%Code%,&quot; &quot;)
+ConvTable=
+ConvTablePath=%_HOME%\Fichiers de ressources\Tables de conversion
+
+[ModelOptions\Prj options\ClssNamingOptions\FRMELNK]
+
+[ModelOptions\Prj options\ClssNamingOptions\FRMELNK\Name]
+Template=
+MaxLen=254
+Case=M
+ValidChar=
+InvldChar=
+AllValid=Yes
+NoAccent=No
+DefaultChar=_
+Script=.convert_name(%Name%,&quot;_&quot;)
+ConvTable=
+ConvTablePath=%_HOME%\Fichiers de ressources\Tables de conversion
+
+[ModelOptions\Prj options\ClssNamingOptions\FRMELNK\Code]
+Template=
+MaxLen=254
+Case=M
+ValidChar=
+InvldChar=
+AllValid=Yes
+NoAccent=No
+DefaultChar=_
+Script=.convert_code(%Code%,&quot; &quot;)
+ConvTable=
+ConvTablePath=%_HOME%\Fichiers de ressources\Tables de conversion
+
+[ModelOptions\Prj options\ClssNamingOptions\DefaultClass]
+
+[ModelOptions\Prj options\ClssNamingOptions\DefaultClass\Name]
+Template=
+MaxLen=254
+Case=M
+ValidChar=
+InvldChar=
+AllValid=Yes
+NoAccent=No
+DefaultChar=_
+Script=.convert_name(%Name%,&quot;_&quot;)
+ConvTable=
+ConvTablePath=%_HOME%\Fichiers de ressources\Tables de conversion
+
+[ModelOptions\Prj options\ClssNamingOptions\DefaultClass\Code]
+Template=
+MaxLen=254
+Case=M
+ValidChar=
+InvldChar=
+AllValid=Yes
+NoAccent=No
+DefaultChar=_
+Script=.convert_code(%Code%,&quot; &quot;)
+ConvTable=
+ConvTablePath=%_HOME%\Fichiers de ressources\Tables de conversion</a:ModelOptionsText>
+<a:Project.Template>1</a:Project.Template>
+<c:ModelsAndFiles>
+<o:ModelDocument Id="o3">
+<a:ObjectID>1CB30671-D44D-4401-A8BC-27E31A0B89BC</a:ObjectID>
+<a:Name>Projet</a:Name>
+<a:Code>Projet</a:Code>
+<a:CreationDate>1544630741</a:CreationDate>
+<a:Creator>p1700937</a:Creator>
+<a:ModificationDate>1544631581</a:ModificationDate>
+<a:Modifier>p1700937</a:Modifier>
+<a:Location>file:///%[PRJ_ROOT_DIR]%/Planning/AjoutSéanceSeq.moo</a:Location>
+<a:Extension>moo</a:Extension>
+<a:ModelDocument.ModelID>9654A106-EB78-4865-A56A-2DCAC023C235</a:ModelDocument.ModelID>
+<a:ModelClassID>18112060-1A4B-11D1-83D9-444553540000</a:ModelClassID>
+</o:ModelDocument>
+</c:ModelsAndFiles>
+</o:Project>
+</c:Children>
+</o:RootObject>
+
+</Model>

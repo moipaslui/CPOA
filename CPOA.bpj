@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner AppLocale="UTF16" ID="{556D5F89-C7FB-41B8-BFBE-47D14672303B}" Label="" LastModificationDate="1544630938" Name="CPOA" Objects="26" Symbols="0" Type="{FF4B6538-9856-42CF-B9B9-304ED370CEAA}" signature="PRJ_MODEL_XML" version="15.3.0.3248"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
+
+<o:RootObject Id="o1">
+<c:Children>
+<o:Project Id="o2">
+<a:ObjectID>556D5F89-C7FB-41B8-BFBE-47D14672303B</a:ObjectID>
+<a:Name>CPOA</a:Name>
+<a:Code>CPOA</a:Code>
+<a:CreationDate>1544629745</a:CreationDate>
+<a:Creator>p1700937</a:Creator>
+<a:ModificationDate>1544630922</a:ModificationDate>
+<a:Modifier>p1700937</a:Modifier>
+<a:PackageOptionsText>[FolderOptions]
+
+[FolderOptions\Project Objects]
+GenerationCheckModel=Yes
+GenerationPath=
+GenerationOptions=
+GenerationTasks=
+GenerationTargets=
+GenerationSelections=
+RbldDeplinkFile=Yes
+RbldDeplinkGene=Yes
+RbldDeplinkRefr=Yes
+RbldDeplinkMapp=Yes
+RbldDeplinkOpnm=Yes</a:PackageOptionsText>
+<a:ModelOptionsText>[ModelOptions]
+
+[ModelOptions\Prj options]
+CaseSensitive=No
+DisplayName=Yes
+EnableTrans=No
+EnableRequirements=No
+
+[ModelOptions\Prj options\NamingOptionsTemplates]
+
+[ModelOptions\Prj options\ClssNamingOptions]
+
+[ModelOptions\Prj options\ClssNamingOptions\PRJPCKG]
+
+[ModelOptions\Prj options\ClssNamingOptions\PRJPCKG\Name]
+Template=
+MaxLen=254
+Case=M
+ValidChar=
+InvldChar=
+AllValid=Yes
+NoAccent=No
+DefaultChar=_
+Script=.convert_name(%Name%,&quot;_&quot;)
+ConvTable=
+ConvTablePath=%_HOME%\Fichiers de ressources\Tables de conversion
+
+[ModelOptions\Prj options\ClssNamingOptions\PRJPCKG\Code]
+Template=
+MaxLen=254
+Case=M
+ValidChar=
+InvldChar=
+AllValid=Yes
+NoAccent=No
+DefaultChar=_
+Script=.convert_code(%Code%,&quot; &quot;)
+ConvTable=
+ConvTablePath=%_HOME%\Fichiers de ressources\Tables de conversion
+
+[ModelOptions\Prj options\ClssNamingOptions\FILO]
+
+[ModelOptions\Prj options\ClssNamingOptions\FILO\Name]
+Template=
+MaxLen=254
+Case=M
+ValidChar=
+InvldChar=
+AllValid=Yes
+NoAccent=No
+DefaultChar=_
+Script=.convert_name(%Name%,&quot;_&quot;)
+ConvTable=
+ConvTablePath=%_HOME%\Fichiers de ressources\Tables de conversion
+
+[ModelOptions\Prj options\ClssNamingOptions\FILO\Code]
+Template=
+MaxLen=254
+Case=M
+ValidChar=
+InvldChar=
+AllValid=Yes
+NoAccent=No
+DefaultChar=_
+Script=.convert_code(%Code%,&quot; &quot;)
+ConvTable=
+ConvTablePath=%_HOME%\Fichiers de ressources\Tables de conversion
+
+[ModelOptions\Prj options\ClssNamingOptions\FRMEOBJ]
+
+[ModelOptions\Prj options\ClssNamingOptions\FRMEOBJ\Name]
+Template=
+MaxLen=254
+Case=M
+ValidChar=
+InvldChar=
+AllValid=Yes
+NoAccent=No
+DefaultChar=_
+Script=.convert_name(%Name%,&quot;_&quot;)
+ConvTable=
+ConvTablePath=%_HOME%\Fichiers de ressources\Tables de conversion
+
+[ModelOptions\Prj options\ClssNamingOptions\FRMEOBJ\Code]
+Template=
+MaxLen=254
+Case=M
+ValidChar=
+InvldChar=
+AllValid=Yes
+NoAccent=No
+DefaultChar=_
+Script=.convert_code(%Code%,&quot; &quot;)
+ConvTable=
+ConvTablePath=%_HOME%\Fichiers de ressources\Tables de conversion
+
+[ModelOptions\Prj options\ClssNamingOptions\FRMELNK]
+
+[ModelOptions\Prj options\ClssNamingOptions\FRMELNK\Name]
+Template=
+MaxLen=254
+Case=M
+ValidChar=
+InvldChar=
+AllValid=Yes
+NoAccent=No
+DefaultChar=_
+Script=.convert_name(%Name%,&quot;_&quot;)
+ConvTable=
+ConvTablePath=%_HOME%\Fichiers de ressources\Tables de conversion
+
+[ModelOptions\Prj options\ClssNamingOptions\FRMELNK\Code]
+Template=
+MaxLen=254
+Case=M
+ValidChar=
+InvldChar=
+AllValid=Yes
+NoAccent=No
+DefaultChar=_
+Script=.convert_code(%Code%,&quot; &quot;)
+ConvTable=
+ConvTablePath=%_HOME%\Fichiers de ressources\Tables de conversion
+
+[ModelOptions\Prj options\ClssNamingOptions\DefaultClass]
+
+[ModelOptions\Prj options\ClssNamingOptions\DefaultClass\Name]
+Template=
+MaxLen=254
+Case=M
+ValidChar=
+InvldChar=
+AllValid=Yes
+NoAccent=No
+DefaultChar=_
+Script=.convert_name(%Name%,&quot;_&quot;)
+ConvTable=
+ConvTablePath=%_HOME%\Fichiers de ressources\Tables de conversion
+
+[ModelOptions\Prj options\ClssNamingOptions\DefaultClass\Code]
+Template=
+MaxLen=254
+Case=M
+ValidChar=
+InvldChar=
+AllValid=Yes
+NoAccent=No
+DefaultChar=_
+Script=.convert_code(%Code%,&quot; &quot;)
+ConvTable=
+ConvTablePath=%_HOME%\Fichiers de ressources\Tables de conversion</a:ModelOptionsText>
+<a:Project.Template>1</a:Project.Template>
+<c:Folders>
+<o:ProjectFolder Id="o3">
+<a:ObjectID>AF276469-2AAD-40B6-800F-3B4276716EBC</a:ObjectID>
+<a:Name>ClassesPlanning</a:Name>
+<a:Code>ClassesPlanning</a:Code>
+<a:CreationDate>1544630517</a:CreationDate>
+<a:Creator>p1700937</a:Creator>
+<a:ModificationDate>1544630524</a:ModificationDate>
+<a:Modifier>p1700937</a:Modifier>
+<c:ModelsAndFiles>
+<o:ModelDocument Id="o4">
+<a:ObjectID>1CB30671-D44D-4401-A8BC-27E31A0B89BC</a:ObjectID>
+<a:Name>seqPlanning</a:Name>
+<a:Code>seqPlanning</a:Code>
+<a:CreationDate>1544630741</a:CreationDate>
+<a:Creator>p1700937</a:Creator>
+<a:ModificationDate>1544630741</a:ModificationDate>
+<a:Modifier>p1700937</a:Modifier>
+<a:Location>file:///%[PRJ_ROOT_DIR]%/Planning/AjoutSéanceSeq.moo</a:Location>
+<a:Extension>moo</a:Extension>
+<a:ModelDocument.ModelID>9654A106-EB78-4865-A56A-2DCAC023C235</a:ModelDocument.ModelID>
+<a:ModelClassID>18112060-1A4B-11D1-83D9-444553540000</a:ModelClassID>
+</o:ModelDocument>
+<o:ModelDocument Id="o5">
+<a:ObjectID>872FB8CD-4580-419D-A2F9-D8DA6E235D56</a:ObjectID>
+<a:Name>planningClasses</a:Name>
+<a:Code>planningClasses</a:Code>
+<a:CreationDate>1544630764</a:CreationDate>
+<a:Creator>p1700937</a:Creator>
+<a:ModificationDate>1544630764</a:ModificationDate>
+<a:Modifier>p1700937</a:Modifier>
+<a:Location>file:///%[PRJ_ROOT_DIR]%/Planning/classesPlanning.moo</a:Location>
+<a:Extension>moo</a:Extension>
+<a:ModelDocument.ModelID>7DE8BCE4-D4FD-421C-9D50-C02A5DDDF856</a:ModelDocument.ModelID>
+<a:ModelClassID>18112060-1A4B-11D1-83D9-444553540000</a:ModelClassID>
+</o:ModelDocument>
+<o:ModelDocument Id="o6">
+<a:ObjectID>E6B968BC-C4B2-4D80-964D-296F7273DEDB</a:ObjectID>
+<a:Name>UseCasesPlan</a:Name>
+<a:Code>UseCasesPlan</a:Code>
+<a:CreationDate>1544630771</a:CreationDate>
+<a:Creator>p1700937</a:Creator>
+<a:ModificationDate>1544630771</a:ModificationDate>
+<a:Modifier>p1700937</a:Modifier>
+<a:Location>file:///%[PRJ_ROOT_DIR]%/Planning/Définition de cas d&#39;utilisation_planning.moo</a:Location>
+<a:Extension>moo</a:Extension>
+<a:ModelDocument.ModelID>5AED0C44-62CC-4266-A7E6-2B4F7EC68AD1</a:ModelDocument.ModelID>
+<a:ModelClassID>18112060-1A4B-11D1-83D9-444553540000</a:ModelClassID>
+</o:ModelDocument>
+<o:ModelDocument Id="o7">
+<a:ObjectID>F9FBE893-5D7D-474E-A647-99899ECAC5BC</a:ObjectID>
+<a:Name>PlanningSeq</a:Name>
+<a:Code>PlanningSeq</a:Code>
+<a:CreationDate>1544630777</a:CreationDate>
+<a:Creator>p1700937</a:Creator>
+<a:ModificationDate>1544630907</a:ModificationDate>
+<a:Modifier>p1700937</a:Modifier>
+<a:Location>file:///%[PRJ_ROOT_DIR]%/Planning/SequencePlanning.moo</a:Location>
+<a:Extension>moo</a:Extension>
+<a:ModelDocument.ModelID>F4CA462B-061D-41C2-90D1-F6A7681D878E</a:ModelDocument.ModelID>
+<a:ModelClassID>18112060-1A4B-11D1-83D9-444553540000</a:ModelClassID>
+</o:ModelDocument>
+</c:ModelsAndFiles>
+</o:ProjectFolder>
+<o:ProjectFolder Id="o8">
+<a:ObjectID>CC1F0A92-DEF8-4A59-A3A2-73F868C2E130</a:ObjectID>
+<a:Name>VIP</a:Name>
+<a:Code>VIP</a:Code>
+<a:CreationDate>1544630839</a:CreationDate>
+<a:Creator>p1700937</a:Creator>
+<a:ModificationDate>1544630842</a:ModificationDate>
+<a:Modifier>p1700937</a:Modifier>
+<c:ModelsAndFiles>
+<o:ModelDocument Id="o9">
+<a:ObjectID>2FEA0E91-4AF7-4436-A3F5-9BB0AAB2689E</a:ObjectID>
+<a:Name>ClassesVIP</a:Name>
+<a:Code>ClassesVIP</a:Code>
+<a:CreationDate>1544630847</a:CreationDate>
+<a:Creator>p1700937</a:Creator>
+<a:ModificationDate>1544630847</a:ModificationDate>
+<a:Modifier>p1700937</a:Modifier>
+<a:Location>file:///%[PRJ_ROOT_DIR]%/VIP/ClasseVIP.moo</a:Location>
+<a:Extension>moo</a:Extension>
+<a:ModelDocument.ModelID>8D09A5CE-9B02-447F-886A-5F712D3BE939</a:ModelDocument.ModelID>
+<a:ModelClassID>18112060-1A4B-11D1-83D9-444553540000</a:ModelClassID>
+</o:ModelDocument>
+<o:ModelDocument Id="o10">
+<a:ObjectID>03D624B3-098A-428D-9E96-A26E7043F768</a:ObjectID>
+<a:Name>SeqVIP</a:Name>
+<a:Code>SeqVIP</a:Code>
+<a:CreationDate>1544630873</a:CreationDate>
+<a:Creator>p1700937</a:Creator>
+<a:ModificationDate>1544630873</a:ModificationDate>
+<a:Modifier>p1700937</a:Modifier>
+<a:Location>file:///%[PRJ_ROOT_DIR]%/VIP/SequenceVIP.moo</a:Location>
+<a:Extension>moo</a:Extension>
+<a:ModelDocument.ModelID>D003F097-2004-455A-BD43-6B1E68F3E70F</a:ModelDocument.ModelID>
+<a:ModelClassID>18112060-1A4B-11D1-83D9-444553540000</a:ModelClassID>
+</o:ModelDocument>
+<o:ModelDocument Id="o11">
+<a:ObjectID>FF7036F7-E417-4F5E-A0A9-12B8D5A93489</a:ObjectID>
+<a:Name>VIP</a:Name>
+<a:Code>VIP</a:Code>
+<a:CreationDate>1544630938</a:CreationDate>
+<a:Creator>p1700937</a:Creator>
+<a:ModificationDate>1544630938</a:ModificationDate>
+<a:Modifier>p1700937</a:Modifier>
+<a:Location>file:///%[PRJ_ROOT_DIR]%/VIP/Définition de cas d&#39;utilisation_.moo</a:Location>
+<a:Extension>moo</a:Extension>
+<a:ModelDocument.ModelID>166155E5-BAFE-4427-A6FB-1CD65A3229DC</a:ModelDocument.ModelID>
+<a:ModelClassID>18112060-1A4B-11D1-83D9-444553540000</a:ModelClassID>
+</o:ModelDocument>
+</c:ModelsAndFiles>
+</o:ProjectFolder>
+</c:Folders>
+</o:Project>
+</c:Children>
+</o:RootObject>
+
+</Model>

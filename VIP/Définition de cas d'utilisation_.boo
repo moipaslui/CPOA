@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?PowerDesigner AppLocale="UTF16" ID="{166155E5-BAFE-4427-A6FB-1CD65A3229DC}" Label="" LastModificationDate="1543833716" Name="Définition de cas d&#39;utilisation_" Objects="125" Symbols="29" Target="Java" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.3.0.3248"?>
+<?PowerDesigner AppLocale="UTF16" ID="{166155E5-BAFE-4427-A6FB-1CD65A3229DC}" Label="" LastModificationDate="1544631078" Name="VIP" Objects="436" Symbols="156" Target="Java" TargetLink="Reference" Type="{18112060-1A4B-11D1-83D9-444553540000}" signature="CLD_OBJECT_MODEL" version="15.3.0.3248"?>
 <!-- Veuillez ne pas modifier ce fichier -->
 
 <Model xmlns:a="attribute" xmlns:c="collection" xmlns:o="object">
@@ -8,12 +8,12 @@
 <c:Children>
 <o:Model Id="o2">
 <a:ObjectID>166155E5-BAFE-4427-A6FB-1CD65A3229DC</a:ObjectID>
-<a:Name>Définition de cas d&#39;utilisation_</a:Name>
-<a:Code>Definition_de_cas_d_utilisation</a:Code>
+<a:Name>VIP</a:Name>
+<a:Code>VIP</a:Code>
 <a:CreationDate>1543475989</a:CreationDate>
 <a:Creator>antoi</a:Creator>
-<a:ModificationDate>1543832085</a:ModificationDate>
-<a:Modifier>p1702310</a:Modifier>
+<a:ModificationDate>1544631078</a:ModificationDate>
+<a:Modifier>p1700937</a:Modifier>
 <a:PackageOptionsText>[FolderOptions]
 
 [FolderOptions\Class Diagram Objects]
@@ -981,12 +981,12 @@ NameToCode=No</a:ModelOptionsText>
 <c:UseCaseDiagrams>
 <o:UseCaseDiagram Id="o5">
 <a:ObjectID>76322D65-7648-4636-B65E-0F268CF6171B</a:ObjectID>
-<a:Name>DiagrammeCasUtilisation_1</a:Name>
-<a:Code>DiagrammeCasUtilisation_1</a:Code>
+<a:Name>DiagrammeCasUtilisationVIP</a:Name>
+<a:Code>DiagrammeCasUtilisationVIP</a:Code>
 <a:CreationDate>1543475989</a:CreationDate>
 <a:Creator>antoi</a:Creator>
-<a:ModificationDate>1543833690</a:ModificationDate>
-<a:Modifier>p1702310</a:Modifier>
+<a:ModificationDate>1544630104</a:ModificationDate>
+<a:Modifier>p1700937</a:Modifier>
 <a:DisplayPreferences>[DisplayPreferences]
 
 [DisplayPreferences\UCD]
@@ -1343,11 +1343,11 @@ Shadow=0</a:DisplayPreferences>
 <a:ManuallyResized>1</a:ManuallyResized>
 </o:RectangleSymbol>
 <o:TextSymbol Id="o7">
-<a:Text>Gestion des VIPs
+<a:Text>Diagramme de gestion des VIPs
 </a:Text>
 <a:CreationDate>1543833690</a:CreationDate>
-<a:ModificationDate>1543833716</a:ModificationDate>
-<a:Rect>((12189,-17941), (20063,-22723))</a:Rect>
+<a:ModificationDate>1543833789</a:ModificationDate>
+<a:Rect>((6863,-17941), (20063,-22723))</a:Rect>
 <a:TextStyle>4130</a:TextStyle>
 <a:AutoAdjustToText>0</a:AutoAdjustToText>
 <a:LineColor>0</a:LineColor>
