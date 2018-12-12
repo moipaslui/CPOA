@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" x="72" y="104" width="961" height="697" text="Browser&#xA;http://..." measuredWidth="961" measuredHeight="697">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="2" x="72" y="264" width="961" measuredWidth="961" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="3" x="447" y="184" text="Gestion des VIP" measuredWidth="211" measuredHeight="46">
+    <font size="28px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Image" id="4" x="88" y="280" measuredWidth="116" measuredHeight="131" src="Capture.PNG"/>
+  <widgets xsi:type="model:TextArea" id="5" x="88" y="432" width="369" height="321" text="Prénom : Bernardo&#xD;&#xA;&#xD;&#xA;Nom : Campion&#xD;&#xA;&#xD;&#xA;Nationalité : Anglaise&#xD;&#xA;&#xD;&#xA;Type : Directeur de la photographie&#xD;&#xA;&#xD;&#xA;Coefficient d'importance : 10&#xD;&#xA;&#xD;&#xA;Prise en charge : ??&#xD;&#xA;&#xD;&#xA;Compagnon attitré : Augusta Campiones&#xD;&#xA;&#xD;&#xA;Film en compétition : La vague pourpre de l'enfer" measuredWidth="369" measuredHeight="321">
+    <font size="15px"/>
+  </widgets>
+  <widgets xsi:type="model:VLine" id="6" x="464" y="269" height="532" measuredWidth="6" measuredHeight="532"/>
+  <widgets xsi:type="model:Label" id="7" x="645" y="280" text="Echanges effectués" measuredWidth="211" measuredHeight="40">
+    <font size="24px" bold="false"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="8" x="469" y="328" width="564" measuredWidth="564" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="9" x="649" y="568" text="Actions effectuées" measuredWidth="202" measuredHeight="40">
+    <font size="24px" bold="false"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="10" x="469" y="616" width="564" measuredWidth="564" measuredHeight="6"/>
+  <widgets xsi:type="model:HLine" id="11" x="469" y="552" width="564" measuredWidth="564" measuredHeight="6"/>
+  <widgets xsi:type="model:TextField" id="12" x="468" y="675" width="564" text="Achat d'une Fouleck Pizza le 17/08/2018" measuredWidth="564" measuredHeight="23" textAlignment="Center">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="13" x="468" y="635" width="564" text="Twinghini mise à disposition le 03/05/2018" measuredWidth="564" measuredHeight="23" textAlignment="Center">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="14" x="469" y="715" width="564" text="Venue du sosie officiel de Johnny Hallyday le 05/09/2018" measuredWidth="564" measuredHeight="23" textAlignment="Center">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="15" x="468" y="344" width="564" height="36" text="Fax" measuredWidth="564" measuredHeight="36">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="16" x="469" y="386" width="564" height="36" text="Mail" measuredWidth="564" measuredHeight="36">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="17" x="469" y="427" width="564" height="36" text="Courrier" measuredWidth="564" measuredHeight="36">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="18" x="469" y="468" width="564" height="36" text="Téléphone" measuredWidth="564" measuredHeight="36">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="19" x="469" y="509" width="564" height="36" text="Autres" measuredWidth="564" measuredHeight="36">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="20" x="469" y="755" width="564" text="Dr Pepper à volonté le 06/09/2018" measuredWidth="564" measuredHeight="23" textAlignment="Center">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Icon" id="21" x="968" y="284" measuredWidth="32" measuredHeight="32" icon="add (large)"/>
+  <widgets xsi:type="model:Icon" id="22" x="968" y="568" measuredWidth="32" measuredHeight="32" icon="add (large)"/>
+  <widgets xsi:type="model:Button" id="31" x="240" y="280" text="Changer image" measuredWidth="101" measuredHeight="25">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

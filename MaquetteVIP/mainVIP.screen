@@ -3,6 +3,28 @@
   <widgets xsi:type="model:Browser" id="1" x="72" y="104" width="961" height="697" text="Browser&#xA;http://..." measuredWidth="961" measuredHeight="697">
     <font/>
   </widgets>
+  <widgets xsi:type="model:HLine" id="2" x="72" y="264" width="961" measuredWidth="961" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="3" x="447" y="184" text="Gestion des VIP" measuredWidth="211" measuredHeight="46">
+    <font size="28px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="6" x="480" y="288" text="Connexion" measuredWidth="138" measuredHeight="46" textAlignment="Center">
+    <font size="28px" bold="false"/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="7" x="472" y="360" width="161" text="Text field" measuredWidth="161" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="8" x="472" y="424" width="161" text="Text field" measuredWidth="161" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="9" x="509" y="488" text="Se connecter" measuredWidth="88" measuredHeight="25" link="accueil.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="10" x="403" y="360" text="Login : " measuredWidth="45" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="11" x="366" y="424" text="Mot de passe :" measuredWidth="82" measuredHeight="23">
+    <font/>
+  </widgets>
   <hRuler/>
   <vRuler/>
   <font size="12px"/>

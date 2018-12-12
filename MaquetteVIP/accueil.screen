@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" x="72" y="104" width="961" height="697" text="Browser&#xA;http://..." measuredWidth="961" measuredHeight="697">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="2" x="72" y="264" width="961" measuredWidth="961" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="3" x="447" y="184" text="Gestion des VIP" measuredWidth="211" measuredHeight="46">
+    <font size="28px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="4" x="399" y="298" width="308" height="47" text="Ajouter une fiche VIP" measuredWidth="308" measuredHeight="47" link="ajouterVIP.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="5" x="399" y="368" width="308" height="49" text="Afficher une fiche VIP" measuredWidth="308" measuredHeight="49" link="ficheVIP.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="6" x="399" y="440" width="308" height="49" text="Modifier une fiche VIP" measuredWidth="308" measuredHeight="49" link="modifierVIP.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="8" x="1213" y="298" width="308" height="47" text="Consulter les logs VIP" measuredWidth="308" measuredHeight="47">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="12" x="399" y="720" width="308" height="49" text="Déconnexion" measuredWidth="308" measuredHeight="49" link="mainVIP.screen">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

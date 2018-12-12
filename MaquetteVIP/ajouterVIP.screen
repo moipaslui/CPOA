@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" x="72" y="104" width="961" height="697" text="Browser&#xA;http://..." measuredWidth="961" measuredHeight="697">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="2" x="72" y="264" width="961" measuredWidth="961" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="3" x="447" y="184" text="Gestion des VIP" measuredWidth="211" measuredHeight="46">
+    <font size="28px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="14" x="380" y="280" text="Prénom* :" measuredWidth="59" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="15" x="394" y="312" text="Nom* : " measuredWidth="47" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="16" x="362" y="344" text="Nationalité* :" measuredWidth="75" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="17" x="393" y="376" text="Type* :" measuredWidth="43" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="18" x="287" y="408" text="Coefficient d'importance* :" measuredWidth="149" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="19" x="343" y="441" text="Prise en charge :" measuredWidth="92" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="20" x="321" y="472" text="Compagnon attitré :" measuredWidth="113" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="22" x="316" y="504" text="Film en compétition :" measuredWidth="119" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="23" x="303" y="536" text="Télécharger une photo : " measuredWidth="135" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="24" x="456" y="535" text="Parcourir" measuredWidth="68" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="25" x="460" y="504" text="Text field" measuredWidth="59" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="26" x="460" y="472" text="Text field" measuredWidth="59" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="27" x="460" y="440" text="Text field" measuredWidth="59" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="28" x="460" y="408" text="Text field" measuredWidth="59" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="29" x="460" y="376" text="Text field" measuredWidth="59" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="30" x="460" y="344" text="Text field" measuredWidth="59" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="31" x="460" y="312" text="Text field" measuredWidth="59" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="32" x="460" y="280" text="Text field" measuredWidth="59" measuredHeight="23">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
