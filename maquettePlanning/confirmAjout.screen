@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="1" x="40" y="64" width="1025" height="737" text="Window" measuredWidth="1025" measuredHeight="737"/>
+  <widgets xsi:type="model:Icon" id="2" x="54" y="99" width="115" height="110" measuredWidth="115" measuredHeight="110" icon="video (large)"/>
+  <widgets xsi:type="model:Label" id="3" x="232" y="134" width="769" text="Outil de planning du Festival de Cannes" measuredWidth="769" measuredHeight="40" textAlignment="Center">
+    <font size="24px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="4" x="280" y="766" text="Modifier planning" measuredWidth="115" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="5" x="40" y="270" width="1025" height="491" measuredWidth="1025" measuredHeight="491"/>
+  <widgets xsi:type="model:Button" id="6" x="776" y="766" text="Se déconnecter" measuredWidth="101" measuredHeight="25" link="main.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="7" x="534" y="766" text="Ajouter film" measuredWidth="83" measuredHeight="25" link="ajouterFilm.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="8" x="40" y="224" width="1025" measuredWidth="1025" measuredHeight="6"/>
+  <widgets xsi:type="model:Label" id="9" x="312" y="229" width="481" text="Ajouter un film" measuredWidth="481" measuredHeight="36" textAlignment="Center">
+    <font size="20px" bold="true" italic="false"/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="17" x="464" y="680" width="177" height="71" text="Retour Accueil" measuredWidth="177" measuredHeight="71" link="connecté.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Label" id="28" x="397" y="304" text="Votre film a été ajouté" measuredWidth="312" measuredHeight="50">
+    <font size="30px"/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>

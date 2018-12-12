@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Window" id="1" x="40" y="64" width="1025" height="737" text="Window" measuredWidth="1025" measuredHeight="737"/>
+  <widgets xsi:type="model:Icon" id="3" x="54" y="99" width="115" height="110" measuredWidth="115" measuredHeight="110" icon="video (large)"/>
+  <widgets xsi:type="model:Label" id="6" x="232" y="134" width="769" text="Outil de planning du Festival de Cannes" measuredWidth="769" measuredHeight="40" textAlignment="Center">
+    <font size="24px" bold="true"/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="8" x="40" y="227" width="1025" measuredWidth="1025" measuredHeight="6"/>
+  <widgets xsi:type="model:Button" id="10" x="509" y="766" text="Se connecter" measuredWidth="88" measuredHeight="25" link="connecté.screen">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="13" x="40" y="270" width="1025" height="491" measuredWidth="1025" measuredHeight="491"/>
+  <widgets xsi:type="model:SearchField" id="18" x="312" y="239" width="257" text="Recherche de films/réalisateurs/acteurs" measuredWidth="257" measuredHeight="24">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Button" id="20" x="936" y="237" text="Rechercher" measuredWidth="79" measuredHeight="25">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:VScrollbar" id="28" x="1048" y="275" height="478" measuredWidth="17" measuredHeight="478"/>
+  <widgets xsi:type="model:HLine" id="29" x="40" y="384" width="1009" measuredWidth="1009" measuredHeight="6"/>
+  <widgets xsi:type="model:TextField" id="31" x="54" y="288" width="115" text="Jour" measuredWidth="115" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="35" x="40" y="496" width="1009" measuredWidth="1009" measuredHeight="6"/>
+  <widgets xsi:type="model:TextField" id="36" x="54" y="400" width="115" text="Jour" measuredWidth="115" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="40" x="40" y="608" width="1009" measuredWidth="1009" measuredHeight="6"/>
+  <widgets xsi:type="model:TextField" id="41" x="54" y="512" width="115" text="Jour" measuredWidth="115" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:HLine" id="45" x="40" y="720" width="1009" measuredWidth="1009" measuredHeight="6"/>
+  <widgets xsi:type="model:TextField" id="46" x="54" y="624" width="115" text="Jour" measuredWidth="115" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="51" x="54" y="736" width="115" text="Jour" measuredWidth="115" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextField" id="52" x="208" y="736" width="807" text="Infos films" measuredWidth="807" measuredHeight="23">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="61" x="616" y="238" measuredWidth="121" measuredHeight="23">
+    <widgets xsi:type="model:TextArea" id="26" width="121" text="Film" measuredWidth="121" measuredHeight="23" textAlignment="Center">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="55" x="94" y="4" measuredWidth="16" measuredHeight="16" icon="filled-arrow-down (small)"/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="62" x="72" y="239" measuredWidth="209" measuredHeight="23">
+    <widgets xsi:type="model:TextField" id="24" width="209" text="Sélectionner compétition" measuredWidth="209" measuredHeight="23" textAlignment="Center">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="56" x="184" y="4" measuredWidth="16" measuredHeight="16" icon="filled-arrow-down (small)"/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" id="57" x="209" y="291" width="806" height="78" text="Infos films" measuredWidth="806" measuredHeight="78">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" id="58" x="208" y="394" width="807" height="78" text="Infos films" measuredWidth="807" measuredHeight="78">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" id="59" x="209" y="512" width="806" height="78" text="Infos films" measuredWidth="806" measuredHeight="78">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:WidgetGroup" id="63" x="776" y="238" measuredWidth="121" measuredHeight="23">
+    <widgets xsi:type="model:TextArea" id="64" width="121" text="Jour" measuredWidth="121" measuredHeight="23" textAlignment="Center">
+      <font/>
+    </widgets>
+    <widgets xsi:type="model:Icon" id="65" x="94" y="4" measuredWidth="16" measuredHeight="16" icon="filled-arrow-down (small)"/>
+  </widgets>
+  <widgets xsi:type="model:TextArea" id="66" x="209" y="624" width="806" height="78" text="Infos films" measuredWidth="806" measuredHeight="78">
+    <font/>
+  </widgets>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
