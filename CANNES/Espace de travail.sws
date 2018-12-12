@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?PowerDesigner signature="Workspace" version="15.1.0.2850"?>
+<!-- Veuillez ne pas modifier ce fichier -->
+
+<Workspace>
+	<Local Expanded="Yes">
+		<Model Expanded="Yes" ID="{D003F097-2004-455A-BD43-6B1E68F3E70F}" Loaded="No" Name="ModeleOrienteObjet_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="GestionFicheVIP.moo"/>
+		<Model Expanded="Yes" ID="{D003F097-2004-455A-BD43-6B1E68F3E70F}" Loaded="No" Name="ModeleOrienteObjet_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="GestionFicheVIP.moo"/>
+		<Model Expanded="Yes" ID="{F4CA462B-061D-41C2-90D1-F6A7681D878E}" Loaded="No" Name="ModeleOrienteObjet_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="GestionPlanning.moo"/>
+		<Model Expanded="Yes" ID="{F4CA462B-061D-41C2-90D1-F6A7681D878E}" Loaded="No" Name="ModeleOrienteObjet_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="GestionPlanning.moo"/>
+		<Model Expanded="Yes" ID="{F4CA462B-061D-41C2-90D1-F6A7681D878E}" Name="ModeleOrienteObjet_1" Selected="Yes" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="GestionPlanning.moo"/>
+	</Local>
+	<BrowserModule Name="Référentiel"/>
+</Workspace>
